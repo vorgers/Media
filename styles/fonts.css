@@ -1,0 +1,282 @@
+@font-face {
+    font-family: "DMSans_regular";
+    src: url(../fonts/DMSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: "DMSans_medium";
+    src: url(../fonts/DMSans-Medium.ttf);
+}
+
+@font-face {
+    font-family: "DMSans_bold";
+    src: url(../fonts/DMSans-Bold.ttf);
+}
+
+@font-face {
+    font-family: "CrimsonText";
+    src: url(../fonts/CrimsonText-Regular.ttf);
+}
+
+@font-face {
+    font-family: "RobotoMono";
+    src: url(../fonts/RobotoMono-Regular.ttf);
+}
+
+@font-face {
+    font-family: "RethinkSans";
+    src: url(../fonts/RethinkSans-Medium.ttf);
+}
+
+@font-face {
+    font-family: "RedditMono";
+    src: url(../fonts/RedditMono-Medium.ttf);
+}
+
+.logo {
+    font-family: "DMSans_medium";
+    font-size: 30px;
+    line-height: 120%;
+    letter-spacing: -5%;
+    color: #000;
+}
+
+.logo:hover {
+    color: #616161;
+}
+
+.smart__title {
+    font-family: "CrimsonText";
+    font-size: 160px;
+    line-height: 85%;
+    letter-spacing: -5%;
+    color: #000;
+    text-align: center;
+}
+
+.logo__title {
+    font-family: "DMSans_regular";
+    font-size: 15px;
+    line-height: 140%;
+    letter-spacing: -0.5%;
+    color: #6F6F6F;
+}
+
+.green_title {
+    font-family: "RobotoMono";
+    font-size: 12px;
+    line-height: 140%;
+    letter-spacing: -1%;
+    color: #485C11;
+}
+
+.bold_title {
+    font-family: "CrimsonText";
+    font-size: 60px;
+    line-height: 90%;
+    letter-spacing: -3%;
+    color: #000;
+}
+
+.subtitle {
+    font-family: "DMSans_regular";
+    font-size: 15px;
+    line-height: 140%;
+    letter-spacing: -0.5%;
+    color: #6F6F6F;
+}
+
+.module_title {
+    font-family: "CtimsonText";
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: -3%;
+    color: #000;
+}
+
+.module_subtitle {
+    font-family: "DMSans_regular";
+    font-size: 15px;
+    line-height: 140%;
+    letter-spacing: -0.5%;
+    color: #6F6F6F;
+}
+
+.features_title {
+    font-family: "CrimsonText";
+    font-size: 60px;
+    line-height: 90%;
+    letter-spacing: -3%;
+    color: #000;
+}
+
+.features_subtitle {
+    font-family: "DMSans_regular";
+    font-size: 15px;
+    line-height: 140%;
+    letter-spacing: -0.5%;
+    color: #6F6F6F;
+}
+
+.features__list_number {
+    font-family: "DMSans_bold";
+    font-size: 15px;
+    line-height: 140%;
+    letter-spacing: -0.5%;
+    color: #6F6F6F;
+}
+
+.features__list_text {
+    font-family: "DMSans_regular";
+    font-size: 15px;
+    line-height: 140%;
+    letter-spacing: -0.5%;
+    color: #000;
+}
+
+.specs_title {
+    font-family: "RobotoMono";
+    font-size: 12px;
+    line-height: 140%;
+    letter-spacing: -1%;
+    color: #485C11;
+}
+
+.specs_subtitle_bold {
+    font-family: "CrimsonText";
+    font-size: 60px;
+    line-height: 90%;
+    letter-spacing: -3%;
+    color: #000;
+}
+
+.specs_subtitle {
+    font-family: "DMSans_regular";
+    font-size: 15px;
+    line-height: 140%;
+    letter-spacing: -0.5%;
+    color: #6F6F6F;
+    text-align: center;
+}
+
+.specs__table_title-1 {
+    font-family: "DMSans_medium";
+    font-size: 25.71px;
+    line-height: 120%;
+    letter-spacing: -8%;
+    color: #000;
+    padding: 40px 30px;
+    text-align: center;
+    border-bottom: 1px solid #929292;
+}
+
+.specs__table_title-2 {
+    font-family: "RethinkSans";
+    font-size: 22.86px;
+    line-height: 120%;
+    letter-spacing: -8%;
+    color: #6F6F6F;
+    padding: 40px 30px;
+    text-align: center;
+    border-bottom: 1px solid #929292;
+}
+
+.specs__table_title-3 {
+    font-family: "RedditMono";
+    font-size: 21.65px;
+    line-height: 120%;
+    letter-spacing: -8%;
+    color: #6F6F6F;
+    padding: 40px 30px;
+    text-align: center;
+    border-bottom: 1px solid #929292;
+}
+
+.specs__table_column_title {
+    font-family: "RobotoMono";
+    font-size: 12px;
+    line-height: 140%;
+    letter-spacing: -1%;
+    color: #000;
+}
+
+.testimonials_text {
+    font-family: "CrimsonText";
+    font-size: 40px;
+    line-height: 105%;
+    letter-spacing: -4%;
+    color: #000;
+}
+
+.testimonials_name {
+    font-family: "DMSans_regular";
+    font-size: 15px;
+    line-height: 140%;
+    letter-spacing: -0.5%;
+    color: #000;
+}
+
+.testimonials_subtitle {
+    font-family: "RobotoMono";
+    font-size: 12px;
+    line-height: 140%;
+    letter-spacing: -1%;
+    color: #485C11;
+}
+
+.guides_title {
+    font-family: "CrimsonText";
+    font-size: 60px;
+    line-height: 90%;
+    letter-spacing: -3%;
+    color: #000;
+}
+
+.guides__card_number {
+    font-family: "DMSans_regular";
+    font-size: 80px;
+    line-height: 100%;
+    letter-spacing: -4%;
+    color: #929292;
+}
+
+.guides__card_title {
+    font-family: "CrimsonText";
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: -3%;
+    color: #000;
+}
+
+.guides__card_subtitle {
+    font-family: "DMSans_regular";
+    font-size: 15px;
+    line-height: 150%;
+    letter-spacing: -0.5%;
+    color: #6F6F6F;
+}
+
+.cta_title {
+    font-family: "CrimsonText";
+    font-size: 60px;
+    line-height: 90%;
+    letter-spacing: -3%;
+    color: #000;
+}
+
+.cta_subtitle {
+    font-family: "DMSans_regular";
+    font-size: 15px;
+    line-height: 140%;
+    letter-spacing: -0.5%;
+    color: #6F6F6F;
+    text-align: center;
+}
+
+.footer_text {
+    font-family: "RobotoMono";
+    font-size: 12px;
+    line-height: 140%;
+    letter-spacing: -1%;
+    color: #485C11;
+}

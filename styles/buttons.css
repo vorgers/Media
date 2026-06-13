@@ -1,0 +1,99 @@
+.navigation-btn {
+    background: #485C11;
+    border-radius: 1000px;
+    padding: 14px 22px;
+    color: #fff;
+    font-family: "DMSans_bold";
+    font-size: 14px;
+    line-height: 140%;
+    letter-spacing: -2.5%;
+    width: 127px;
+}
+
+.navigation-btn:hover {
+    background: #5c7a07;
+}
+
+.features-btn {
+    max-width: 138px;
+    color: #000;
+    text-decoration: none;
+}
+
+.features-btn > span {
+    background: #DFECC6;
+    border-radius: 1000px;
+    padding: 14px 22px;
+    font-family: "DMSans_bold";
+    font-size: 14px;
+    line-height: 140%;
+    letter-spacing: -2.5%;
+}
+
+.features-btn > span:hover {
+    background: #cae793;
+}
+
+.specs-btn {
+    max-width: 138px;
+    color: #000;
+    text-decoration: none;
+}
+
+.specs-btn > span {
+    background: #DFECC6;
+    border-radius: 1000px;
+    padding: 14px 22px;
+    font-family: "DMSans_bold";
+    font-size: 14px;
+    line-height: 140%;
+    letter-spacing: -2.5%;
+}
+
+.specs-btn > span:hover {
+    background: #cae793;
+}
+
+.guides-btn {
+    max-width: 138px;
+    color: #000;
+    text-decoration: none;
+}
+
+.guides-btn > span {
+    background: #DFECC6;
+    border-radius: 1000px;
+    padding: 14px 22px;
+    font-family: "DMSans_bold";
+    font-size: 14px;
+    line-height: 140%;
+    letter-spacing: -2.5%;
+}
+
+.guides-btn > span:hover {
+    background: #cae793;
+}
+
+.cta-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2px;
+    background: #485C11;
+    border-radius: 1000px;
+    padding: 14px 22px;
+    width: 600px;
+    text-decoration: none;
+    color: white;
+}
+
+.cta-btn > span {
+    font-family: "DMSans_bold";
+    font-size: 14px;
+    line-height: 140%;
+    letter-spacing: -2.5%;
+}
+
+.cta-btn:hover {
+    background: #5c7a07;
+}
